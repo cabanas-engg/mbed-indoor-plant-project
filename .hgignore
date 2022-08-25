@@ -1,0 +1,9 @@
+^BUILD$
+^compile_commands.json$
+^.clangd$
+^.mbed$
+^.cache$
+^mbed$
+^DHT11/mbed$
+^TextLCD$
+^DHT11$
